@@ -27,7 +27,7 @@ theoretical and practical basis from last 25 years of technical professional lif
 
 
 [website]: https://www.dreila.ch
-[twitter]: https://www.instagram.com/tw0sday
+[twitter]: https://www.twitter.com/tw0sday
 [linkedin]: https://www.linkedin.com/in/herbert-peter-kleber-ing-bed-meng-msc-392859bb
 
 <!--
